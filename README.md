@@ -1,1 +1,1 @@
-## Battle game
+Battle game
